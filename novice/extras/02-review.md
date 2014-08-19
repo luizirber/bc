@@ -105,7 +105,7 @@ We can now see why Git, Mercurial, and other modern version control systems use 
 it helps people work together,
 but on their own time.
 It might take Dracula several days to get around to reviewing Wolfman's changes.
-Rather than being stalled until then,
+I changed this line,
 Wolfman can just switch to another branch and work on something else,
 then switch back when Dracula's review finally comes in.
 Once the changes in a particular branch have been accepted,
